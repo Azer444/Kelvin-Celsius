@@ -1,0 +1,14 @@
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\bin\Debug\netcoreapp3.1\Celsius-Kelvin.exe
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\bin\Debug\netcoreapp3.1\Celsius-Kelvin.deps.json
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\bin\Debug\netcoreapp3.1\Celsius-Kelvin.runtimeconfig.json
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\bin\Debug\netcoreapp3.1\Celsius-Kelvin.runtimeconfig.dev.json
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\bin\Debug\netcoreapp3.1\Celsius-Kelvin.dll
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\bin\Debug\netcoreapp3.1\Celsius-Kelvin.pdb
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\obj\Debug\netcoreapp3.1\Celsius-Kelvin.csproj.AssemblyReference.cache
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\obj\Debug\netcoreapp3.1\Celsius-Kelvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\obj\Debug\netcoreapp3.1\Celsius-Kelvin.AssemblyInfoInputs.cache
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\obj\Debug\netcoreapp3.1\Celsius-Kelvin.AssemblyInfo.cs
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\obj\Debug\netcoreapp3.1\Celsius-Kelvin.csproj.CoreCompileInputs.cache
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\obj\Debug\netcoreapp3.1\Celsius-Kelvin.dll
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\obj\Debug\netcoreapp3.1\Celsius-Kelvin.pdb
+C:\Users\azerh\Desktop\C#\Celius-Kelvin\Celsius-Kelvin\Celsius-Kelvin\obj\Debug\netcoreapp3.1\Celsius-Kelvin.genruntimeconfig.cache
